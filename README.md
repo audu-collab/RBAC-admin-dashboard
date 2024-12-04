@@ -152,5 +152,3 @@ For support, please open an issue in the GitHub repository or contact the mainta
 
 Built with ❤️ by [Audumbar Gutte]
 ```
-
-This README provides a comprehensive guide to your RBAC Admin Dashboard project. Feel free to adjust any details or add more specific information as needed.
